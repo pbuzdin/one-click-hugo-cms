@@ -14,31 +14,34 @@ intro:
     В распоряжении агрокомлекса Подсосенки современная надежная техника и
     квалифицированный персонал.
 products:
-  - image: /img/illustrations-coffee.svg
-    text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
-  - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
-  - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  - image: /img/gala.png
+    text: |-
+      **Картофель «Гала»**\
+      100 рублей за 1 кг
+  - image: /img/jurav.jpg
+    text: |-
+      **Картофель «Журавинка»**\
+      100 рублей за 1 кг
+  - image: /img/skarb.jpg
+    text: |-
+      **Картофель «Скарб»**\
+      100 рублей за 1 кг
+  - image: /img/grass-straw.jpg
+    text: "**Сено разнотравное\r**\\\n100 рублей за 1 кг"
+  - image: /img/koz-straw.jpg
+    text: "**Сено «Козлятник»\r**\\\n100 рублей за 1 кг"
+  - image: /img/wheat-straw.jpg
+    text: |-
+      **Солома пшеничная**\
+      100 рублей за 1 кг
+  - image: /img/barley-straw.jpg
+    text: "**Солома ячменная в тюках\r**\\\n100 рублей за 1 кг"
+  - image: /img/barley.png
+    text: "**Ячмень кормовой\r**\\\n100 рублей за 1 кг"
+  - image: /img/barley.png
+    text: |-
+      **Пшеница продовольственная**\
+      100 рублей за 1 кг
 values:
   heading: Our values
   text: >-
