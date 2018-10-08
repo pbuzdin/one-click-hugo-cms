@@ -16,7 +16,7 @@ intro:
 products:
   - image: /img/gala.png
     text: |-
-      **Картофель «Гала»**\
+      Картофель «Гала»<br>
       100 рублей за 1 кг
   - image: /img/jurav.jpg
     text: |-
